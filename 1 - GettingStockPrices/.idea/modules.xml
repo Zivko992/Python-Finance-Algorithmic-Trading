@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../4 - GettingSP500Tickers/.idea/GettingSP500Tickers.iml" filepath="$PROJECT_DIR$/../4 - GettingSP500Tickers/.idea/GettingSP500Tickers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GettingStockPrices.iml" filepath="$PROJECT_DIR$/.idea/GettingStockPrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2 - ManipulatingStockData/.idea/ManipulatingStockData.iml" filepath="$PROJECT_DIR$/../2 - ManipulatingStockData/.idea/ManipulatingStockData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3 - MoreStockDataManipulation/.idea/MoreStockDataManipulation.iml" filepath="$PROJECT_DIR$/../3 - MoreStockDataManipulation/.idea/MoreStockDataManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../5 - SP500DataAndCorrelation/.idea/SP500DataAndCorelation.iml" filepath="$PROJECT_DIR$/../5 - SP500DataAndCorrelation/.idea/SP500DataAndCorelation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6 - SP500_MachineLearning/.idea/SP500_MachineLearning.iml" filepath="$PROJECT_DIR$/../6 - SP500_MachineLearning/.idea/SP500_MachineLearning.iml" />
+    </modules>
+  </component>
+</project>
